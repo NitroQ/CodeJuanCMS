@@ -14,7 +14,7 @@ Laravel 5.2 is full-stack modern PHP framework, that used all new features intro
 ### Deployment Requirements:<br />
 
 [Composer 2.0.XX](https://getcomposer.org/download/)  <br /> 
-[XAMPP 5.6 or newer](https://www.apachefriends.org/download.html) <br />
+[XAMPP 5.6 or newer](https://www.apachefriends.org/download.html) or [WampServer 3.2.X](https://www.wampserver.com/en/)<br />
 [Visual Studio Code](https://code.visualstudio.com/download) <br />
 [Git](https://git-scm.com/downloads) <br />
 
