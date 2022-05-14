@@ -21,7 +21,7 @@ Laravel 5.2 is full-stack modern PHP framework, that used all new features intro
 
 ### Installation
 
-1) Option 1: Unzip and Copy Team-A-Codeniverse folder onto your xampp\htdocs folder. <br />
+1) Option 1: Unzip and Copy Team-A-Codeniverse folder onto your xampp\htdocs or wamp64\www folder. <br />
 2) Option 2: Clone the repository by running this command: <br />
 
 ```sh
